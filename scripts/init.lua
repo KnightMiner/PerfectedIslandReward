@@ -1,6 +1,6 @@
 local mod = {
-	id = "more_perfect_island",
-	name = "More Perfect Island",
+	id = "perfected_island_reward",
+	name = "Perfected Island Reward",
 	version = "0.0.1",
 	requirements = {},
 }
