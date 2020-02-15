@@ -1,8 +1,8 @@
 local mod = {
-	id = "perfected_island_reward",
-	name = "Perfected Island Reward",
-	version = "0.0.1",
-	requirements = {},
+  id = "perfected_island_reward",
+  name = "Perfected Island Reward",
+  version = "0.0.1",
+  requirements = {},
 }
 
 local PERF_POWER = 7
