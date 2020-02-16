@@ -3,6 +3,7 @@ local mod = {
   name = "Perfected Island Reward",
   version = "0.0.1",
   requirements = {},
+  icon = "img/icon.png",
 }
 
 local PERF_POWER = 7

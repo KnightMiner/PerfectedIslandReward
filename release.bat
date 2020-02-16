@@ -6,6 +6,7 @@ MKDIR build
 MKDIR build\PerfectedIslandReward
 
 REM Copy required files into build directory
+XCOPY img build\PerfectedIslandReward\img /s /e /i
 XCOPY scripts build\PerfectedIslandReward\scripts /s /e /i
 
 REM Zipping contents
