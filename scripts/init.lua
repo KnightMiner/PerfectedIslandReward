@@ -1,7 +1,7 @@
 local mod = {
   id = "perfected_island_reward",
   name = "Perfected Island Reward",
-  version = "0.0.1",
+  version = "1.0.0",
   requirements = {},
   icon = "img/icon.png",
 }
